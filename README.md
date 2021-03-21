@@ -43,7 +43,7 @@
 [<img align="left" alt="Carto" width="26px" src="http://www.blog-geographica.com/wp-content/uploads/2015/10/Logo-Carto.png" />]()
 [<img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />]()
+[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Esri" width="26px" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/12/esri-1.jpg"/>]()
