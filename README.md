@@ -22,11 +22,10 @@
 [https://soundcloud.com/ahmedbaz1024/3wzv4exabj9d](https://soundcloud.com/ahmedbaz1024/3wzv4exabj9d)
 
 ### Connect with me
-
-[![Linkedin](https://www.linkedin.com/in/hany-elshafey-51ab802b/)](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
-[![Facbook](https://www.facebook.com/hanyelshaf3i/)](https://www.facebook.com/hanyelshaf3i/)
-[https://www.instagram.com/hanyalshafey/][instagram]
-[https://www.instagram.com/hanyalshafey/][Gmail]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCh8JBwl84FoGFX325q-wh4g)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hany_survey)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
+<br />
 
 ### Languages and Tools
   
@@ -47,7 +46,7 @@
 [<img align="left" alt="Pandas" width="26px" src="https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Esri" width="26px" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/12/esri-1.jpg]()
+[<img align="left" alt="Esri" width="26px" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/12/esri-1.jpg"/>]()
 
 5. 🗣 
 <!--END_SECTION:activity-->
