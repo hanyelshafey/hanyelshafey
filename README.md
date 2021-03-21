@@ -17,8 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
 <br />
 
-### Languages and Tools:
-
 ### Spotify Playing 🎧
 
 [https://soundcloud.com/ahmedbaz1024/3wzv4exabj9d](https://soundcloud.com/ahmedbaz1024/3wzv4exabj9d)
