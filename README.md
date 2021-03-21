@@ -5,9 +5,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hany_survey)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
 
-[![Linkedin](https://www.linkedin.com/in/hany-elshafey-51ab802b/)](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
-[![Facbook](https://www.facebook.com/hanyelshaf3i/)](https://www.facebook.com/hanyelshaf3i/)
-
 ## I'm a Python Developer, and Geospatial Data scientist 
 
 :smile:
