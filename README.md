@@ -33,7 +33,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="geodjango" width="26px" src="http://blog.pyplane.com/static/assets/img/my_pics/geodjango.png" />]()
+[<img align="left" alt="geodjango" width="26px" src="https://github.com/hanyelshafey/hanyelshafey/blob/master/1_cm-cuSm0fyMm_PDyPfAz9w.jpeg" />]()
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="arcpy" width="26px" src="https://i2.wp.com/www.datavision.net.au/wp-content/uploads/2018/05/arcpy.png?ssl=1" />]()
 [<img align="left" alt="Scikit_learn" width="26px" src="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A_%D9%83%D9%8A%D8%AA_%D9%84%D9%8A%D8%B1%D9%86#/media/%D9%85%D9%84%D9%81:Scikit_learn_logo_small.svg" />]()
