@@ -1,15 +1,7 @@
 # Hi there, I'm Hany Elshafey  
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCh8JBwl84FoGFX325q-wh4g)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hany_survey)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
-
-
-
 
 
 ## I'm a Python Developer, and Geospatial Data scientist 
-
-:smile:
 
 - 🔭 I am now working on research projects between python programming and geographic information systems
 - 🔭 I’m currently working as a freelancer
@@ -17,6 +9,15 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals:  Finish Master Degree 📕 👋👋👋
 - ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps 🌍, code 🐍 and data visualisation 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCh8JBwl84FoGFX325q-wh4g)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hany_survey)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hany-elshafey-51ab802b/)
+<br />
+
+### Languages and Tools:
 
 ### Spotify Playing 🎧
 
