@@ -38,7 +38,7 @@
 [<img align="left" alt="geopandas" width="26px" src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="arcpy" width="26px" src="https://i2.wp.com/www.datavision.net.au/wp-content/uploads/2018/05/arcpy.png?ssl=1" />]()
-[<img align="left" alt="Scikit_learn" width="26px" src="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%8A_%D9%83%D9%8A%D8%AA_%D9%84%D9%8A%D8%B1%D9%86#/media/%D9%85%D9%84%D9%81:Scikit_learn_logo_small.svg" />]()
+[<img align="left" alt="Scikit_learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
 [<img align="left" alt="Carto" width="26px" src="http://www.blog-geographica.com/wp-content/uploads/2015/10/Logo-Carto.png" />]()
 [<img align="left" alt="Numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />]()
