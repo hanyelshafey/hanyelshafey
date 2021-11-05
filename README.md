@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals:  Finish Master Degree 📕 👋👋👋
-- ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps  🌍 , charts, code 🐍 and data visualisation 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+- ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps  🌍 , charts, code 🐍 and data visualization 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
 ### Connect with me:
