@@ -3,7 +3,7 @@
 
 ## I'm a Python Developer, and Geospatial Data scientist 
 
-- 🔭 I am now working on research projects between python programming and geographic information systems
+- 🔭 I am now working on research projects combine geospatial holistic view and AI
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
