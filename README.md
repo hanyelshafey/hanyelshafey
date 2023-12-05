@@ -4,7 +4,7 @@
 ## I'm a Python Developer, and Geospatial Data scientist 
 
 - 🔭 I am now working on research projects combine geospatial holistic view and AI
-- 🔭 I’m currently working as a freelancer
+- 🔭 I’m currently working as AI Engineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals:  Finish Master Degree 📕 👋👋👋
