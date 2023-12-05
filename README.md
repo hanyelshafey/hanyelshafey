@@ -7,8 +7,8 @@
 - 🔭 I’m currently working as AI Engineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals:  Finish Master Degree 📕 👋👋👋
-- ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps  🌍 , charts, code 🐍 and data visualization 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+- 🥅 2021 Goals:  Finish Master Degree >>>>done 📕 👋👋👋
+- ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps  🌍 , charts, code 🐍 and data visualization and Computer vision and NLP 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
 ### Connect with me:
