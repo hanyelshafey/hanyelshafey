@@ -1,7 +1,7 @@
 # Hi there, I'm Hany Elshafey  
 
 
-## I'm a Python Developer, and Geospatial Data scientist 
+## I'm an AI Instructor 
 
 - 🔭 I am now working on research projects combine geospatial holistic view and AI
 - 🔭 I’m currently working as AI Engineer
