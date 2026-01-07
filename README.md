@@ -1,7 +1,7 @@
 # Hi there, I'm Hany Elshafey  
 
 
-## I'm an AI Instructor and Researcher
+## AI Instructor and Researcher
 
 
 
