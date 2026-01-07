@@ -1,14 +1,9 @@
 # Hi there, I'm Hany Elshafey  
 
 
-## I'm an AI Instructor 
+## I'm an AI Instructor and Researcher
 
-- 🔭 I am now working on research projects combine geospatial holistic view and AI
-- 🔭 I’m currently working as AI Engineer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals:  Finish Master Degree >>>>done 📕 👋👋👋
-- ⚡⚡⚡⚡⚡⚡⚡⚡⚡I love maps  🌍 , charts, code 🐍 and data visualization and Computer vision and LLMs 😎.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
 
 
 ### Connect with me:
